@@ -36,7 +36,7 @@ _Referred a Research Paper, took the idea and combined with own thoughts to crea
 
 ## Screenshots
 
-  <img src="images/Volatility_Chart.jpg" width=800/>
+  <img src="images/Volatility_Chart.JPG" width=800/>
   <img src="images/corr_graph.JPG" width=800/>
   <img src="images/high_corr_graph.JPG" width=800/>
   <img src="images/mst.JPG" width=800/>
